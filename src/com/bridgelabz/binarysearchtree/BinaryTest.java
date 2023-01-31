@@ -7,5 +7,6 @@ public class BinaryTest {
 		obj.insert(30);
 		obj.insert(70);
 		obj.size();
+		obj.search(63);
 	}
 }
